@@ -4,14 +4,14 @@
 
 int main()
 {
-    int s;   // Integer variable
+    int num;   // Integer variable
 
     // Taking integer input from user
     printf("Enter the integer: ");
-    scanf("%d", &s);
+    scanf("%d", &num);
 
     // Printing the integer
-    printf("s: %d\n", s);
+    printf("num: %d\n", num);
 
     return 0;
 }
